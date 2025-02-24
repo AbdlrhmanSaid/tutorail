@@ -48,7 +48,7 @@ const FileBox = () => {
         data.map((file, index) => (
           <div
             key={index}
-            className="w-64 p-4 bg-white rounded-xl shadow-md hover:shadow-lg transition-shadow relative"
+            className="p-4 bg-white rounded-xl shadow-md hover:shadow-lg transition-shadow relative"
           >
             <FiFolder className="text-purple-500 text-4xl" />
 
