@@ -1,0 +1,38 @@
+[
+  {
+    "status": true,
+    "title": "React",
+    "img": "/reactIcon.png",
+    "category": "frontend"
+  },
+  {
+    "status": true,
+    "title": "Angular",
+    "img": "/angular.png",
+    "category": "frontend"
+  },
+  {
+    "status": true,
+    "title": "Html",
+    "img": "/html.png",
+    "category": "frontend"
+  },
+  {
+    "status": true,
+    "title": "Css",
+    "img": "/css.png",
+    "category": "frontend"
+  },
+  {
+    "status": true,
+    "title": "Sql",
+    "img": "/sql.png",
+    "category": "backend"
+  },
+  {
+    "status": true,
+    "title": "Node Js",
+    "img": "/node.png",
+    "category": "backend"
+  }
+]
